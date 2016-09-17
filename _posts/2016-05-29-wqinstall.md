@@ -32,7 +32,7 @@ author:     "蔚蓝"
 ![chaxun2](http://qiniu.hizmz.com/wqinstall-3.jpg)
 
 ___
->## 如果仍然有疑问，可加群联系
+>## 如果仍然有疑问，可扫码关注我的个人微信平台
 >![qqgroup](http://qiniu.hizmz.com/footshow.jpg)
 ___
 
