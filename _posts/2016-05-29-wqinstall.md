@@ -33,6 +33,6 @@ author:     "蔚蓝"
 
 ___
 >## 如果仍然有疑问，可加群联系
->![qqgroup](http://qiniu.hizmz.com/qqgroup.jpg)
+>![qqgroup](http://qiniu.hizmz.com/footshow.jpg)
 ___
 
